@@ -1,4 +1,4 @@
-# **"Petualangan Si Robot dan Jejak Tangisan" **
+# "Petualangan Si Robot dan Jejak Tangisan"
 
 Dalam galaksi yang jauh, di sebuah planet kecil bernama **Cryonia**, hiduplah seekor robot mungil bernama **CryoBot**. Tugas CryoBot sederhana tapi penuh tantangan: ia harus menjelajahi seluruh permukaan planet yang ditutupi dengan **tile kosong (⬜)**. Namun, setiap kali CryoBot bergerak, ia meninggalkan **jejak tangisan (⬛)**, seakan-akan setiap langkahnya mencurahkan rasa melankolis planet itu.
 
@@ -30,6 +30,4 @@ Ayo, bantu CryoBot menyelesaikan misinya di Cryonia! Gunakan tombol **panah** di
 ### 🌌 **Pesan Moral**  
 "Setiap langkah meninggalkan jejak. Meskipun ada kesedihan di perjalanan, teruslah bergerak, dan biarkan jejak itu menjadi bagian dari kisahmu."
 
----
 
-Tambahkan cerita ini ke deskripsi proyek di GitHub untuk membuat proyek Anda lebih menarik! 🚀
