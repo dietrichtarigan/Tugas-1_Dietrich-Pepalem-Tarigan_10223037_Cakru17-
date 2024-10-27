@@ -1,4 +1,4 @@
-### "Petualangan Si Robot dan Jejak Tangisan"**  
+# **"Petualangan Si Robot dan Jejak Tangisan" **
 
 Dalam galaksi yang jauh, di sebuah planet kecil bernama **Cryonia**, hiduplah seekor robot mungil bernama **CryoBot**. Tugas CryoBot sederhana tapi penuh tantangan: ia harus menjelajahi seluruh permukaan planet yang ditutupi dengan **tile kosong (⬜)**. Namun, setiap kali CryoBot bergerak, ia meninggalkan **jejak tangisan (⬛)**, seakan-akan setiap langkahnya mencurahkan rasa melankolis planet itu.
 
